@@ -1,5 +1,4 @@
-### Olá! Eu sou Amanda Clevyne :)
+### Olá! Eu sou Amanda Clevyne 🖥
 
 
-- 🌱 dev junior
-- 🌳 estudando react-native
+-💻. estudando react-native
