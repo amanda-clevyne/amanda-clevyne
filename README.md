@@ -4,7 +4,6 @@
 -💻: estudando react-native
 <Br>
 <Br>
-
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="Amanda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
